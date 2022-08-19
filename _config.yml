@@ -1,0 +1,37 @@
+title: Сербскохорватско-русский словарь
+author:
+  name: Leonid Sopov
+  email: leonid@sopov.org
+url: tolstoy.beograd.cyou
+description: Српскохрватско-руски речник
+show_excerpts: false
+locale: ru_RS
+
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    github: sopov
+    facebook: sopov
+    instagram: sopov
+    linkedin: leonidsopov
+    telegram: leonidsopov
+
+theme: minima
+
+header_pages:
+  - site/003-abbr.md
+  - site/004-abc.md
+  - site/005-dict.md
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
