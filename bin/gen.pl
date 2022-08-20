@@ -51,17 +51,30 @@ sub unionmd() {
     foreach my $f ( sort keys %{$u} ) {
         ( my $url = $f ) =~ s/[.]md//;
         my $title = $links->{$f};
-        my $data  = sprintf q{---
+        my $data  = q{};
+        my $pages = 0;
+        my $empty = 0;
+        foreach my $n ( sort { $a <=> $b } keys %{ $u->{$f} } ) {
+            $pages++;
+            my $fn = join q{/}, $OUT, $u->{$f}->{$n};
+            my $d = read_file $fn, { binmode => ':utf8' };
+            $empty++ if $d !~ /a name/;
+            $data .= $d;
+            unlink $fn;
+        }
+        my $total = () = $data =~ /(a name)/g;
+        my $finish = ($pages-$empty)/$pages;
+        my $await = $finish > 0 ? $total/$finish - $total: $pages * 90;
+        
+        $data = sprintf q{---
 layout: page
 title: %s
 permalink: /%s/
 ---
-}, $title, $url;
-        foreach my $n ( sort { $a <=> $b } keys %{ $u->{$f} } ) {
-            my $fn = join q{/}, $OUT, $u->{$f}->{$n};
-            $data .= read_file $fn, { binmode => ':utf8' };
-            unlink $fn;
-        }
+> %d слов (%s%.02f%% завершено, ещё ~ %d слов)
+
+%s
+}, $title, $url, $total, ($empty > 0 ? q{~} : q{}), 100*$finish, $await, $data;
         write_file "$OUT/$f", { binmode => ':utf8' }, $data;
     }
 }
@@ -72,7 +85,7 @@ sub fix_md {
     for ($text) {
         s{(permalink:\s+)/source}{$1}g;
        s/\((.+?[.]md)\)/fix_md_link($1)/eg;
-       s{\s+#([a-z]\S+)\s*}{ <a name="$1"></a>}g;
+       s{\s+#([a-z]\S+)\s*}{ <a name="$1"></a>}gi;
     }
     return $text;
 }
