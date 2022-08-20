@@ -72,6 +72,7 @@ sub fix_md {
     for ($text) {
         s{(permalink:\s+)/source}{$1}g;
        s/\((.+?[.]md)\)/fix_md_link($1)/eg;
+       s{\s+#([a-z]\S+)\s*}{ <a name="$1"></a>}g;
     }
     return $text;
 }
