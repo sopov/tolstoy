@@ -16,7 +16,7 @@ minima:
     linkedin: leonidsopov
     telegram: leonidsopov
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 
 header_pages:
   - site/003-abbr.md
