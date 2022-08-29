@@ -3,7 +3,7 @@ layout: page
 title: Њ њ
 permalink: /nj/
 ---
-> 59 слов (100.00% завершено, ещё ~ 0 слов)
+> 61 слов (100.00% завершено, ещё ~ 0 слов)
 
 * <a name="njad" title="њад" class="rs">**ња̂д**</a>, <a name="njada" title="њада" class="rs">~а</a>, <a name="njado" title="њадо" class="rs">~о</a>, <a name="njadast" title="њадаст" class="rs">**ња̀даст**</a>, <a name="njadasti" title="њадасти" class="rs">~ӣ</a>, <a name="njadasta" title="њадаста" class="rs">~а</a>, <a name="njadasto" title="њадасто" class="rs">~о</a>
   1. тёмно-си́ний, си́зый; 
@@ -23,15 +23,15 @@ permalink: /nj/
   * **~о схватање** её понима́ние. 
 * <a name="njiva" title="њива" class="rs">**њи̏ва**</a> *ж.* поле; ни́ва. 
 * <a name="njiviti" title="њивити" class="rs">**њи́вити**</a>, <a name="njivim" title="њивим" class="rs">њи̂вӣм</a> выра́щивать; уха́живать; ко́лить. 
-* <a name="njijati-se" title="њијати-се" class="rs">**њи́јати (се)**</a>, <a name="njišem-se" title="њишем-се" class="rs">њи̂ше̄м</a> (се) см. [њихати (се)](/nj/#njihati-se). 
+* <a name="njijati-se" title="њијати се" class="rs">**њи́јати (се)**</a>, <a name="njišem-se" title="њишем се" class="rs">њи̂ше̄м</a> (се) см. [њихати (се)](/nj/#njihati-se). 
 * <a name="njin" title="њин" class="rs">**њи̏н**</a>, <a name="njina" title="њина" class="rs">~а</a>, <a name="njino" title="њино" class="rs">~о</a> *мест.* *притяж.* их; 
   * **певају моје другарице, ја познајем њину песму** пою́т мои́ подру́ги, я узнаю́ их пе́сню. 
 * <a name="njiriti" title="њирити" class="rs">**њи́рити**</a>, <a name="njirim" title="њирим" class="rs">њи́рӣм</a> 
   1. см. [гвирити](/g/#gviriti);
   2. внимательно разгля́дывать; смотре́ть вблизи́.
 * <a name="njisak" title="њисак" class="rs">**њи̂сǁак**</a>, <a name="njiska" title="њиска" class="rs">~ка</a> *м.*, **њи̏ска** *ж.* ржа́ние.
-* <a name="njiskati" title="њискати" class="rs">**њи̏скати**</a>, -ка̄ (*сов.* <a name="njisnuti" title="њиснути" class="rs">њиснути)</a> ржать. 
-* <a title="" class="rs">**њи́снути**</a>, <a name="njisne" title="њисне" class="rs">њи̂сне̄</a> (*несов.* <a title="" class="rs">њискати</a>, <a name="njištati" title="њиштати" class="rs">њиштати)</a> заржа́ть. 
+* <a name="njiskati" title="њискати" class="rs">**њи̏скати**</a>, <a title="њиска" class="rs">-ка̄</a> (*сов.* [њиснути](/nj/#njisnuti)) ржать. 
+* <a name="njisnuti" title="њиснути" class="rs">**њи́снути**</a>, <a name="njisne" title="њисне" class="rs">њи̂сне̄</a> (*несов.* [њискати](/nj/#njiskati), [њиштати](/nj/#njištati)) заржа́ть. 
 * <a name="njihalica" title="њихалица" class="rs">**њи́халица**</a> ж. 
   1. ма́ятник (*у часов*); 
   2. каче́ли;
@@ -40,10 +40,10 @@ permalink: /nj/
 * <a name="njihaljka" title="њихаљка" class="rs">**њихаљка**</a> *ж.* *см.* [њихалица](/nj/#njihalica) 2, 3, 4. 
 * <a name="njihan" title="њихан" class="rs">**њи̏хǁан**</a>, <a name="njihii" title="њихии" class="rs">~иӣ</a>, <a name="njihna" title="њихна" class="rs">~на</a>, <a name="njihno" title="њихно" class="rs">~но</a> *мест.* *притяж.* *уст.* *см.* [њин](/nj/#njin).
 * <a name="njihati" title="њихати" class="rs">**њи́хати**</a>, <a name="njišem" title="њишем" class="rs">њи̂ше̄м</a>, <a name="njiham" title="њихам" class="rs">њи̂ха̄м</a> кача́ть, колеба́ть, колыха́ть;
-  * <a name="njihati-se" title="њихати-се" class="rs">**~ се**</a> кача́ться, колеба́ться, колыха́ться.
+  * <a name="njihati-se" title="њихати се" class="rs">**~ се**</a> кача́ться, колеба́ться, колыха́ться.
 * <a name="njihov" title="њихов" class="rs">**њи̏хов**</a>, <a name="njihova" title="њихова" class="rs">~а</a>, <a name="njihovo" title="њихово" class="rs">~о</a> *мест.* *притяж.* их; 
   * **иду моји другови, чујем ~е гласове** иду́т мои́ друзья́, я слы́шу их голоса́. 
-* <a title="" class="rs">**њи́штати**</a>, -тӣм (*сов.* <a title="" class="rs">њиснути)</a> ржать.
+* <a name="njištati" title="њиштати" class="rs">**њи́штати**</a>, <a name="njištatim" title="њиштатим" class="rs">-тӣм</a> (*сов.* [њиснути](/nj/#njisnuti)) ржать.
 * <a name="njokalica" title="њокалица" class="rs">*њо́калица*</a> *ж.* *прост.* мо́рда. 
 * <a name="njoriti" title="њорити" class="rs">**њо̀рити**</a>, <a name="njorim" title="њорим" class="rs">њо̀рӣм</a> ныря́ть. 
 * <a name="njunjoriti" title="њуњорити" class="rs">**њу̏њорити**</a>, -рӣм бормота́ть; ворча́ть.
@@ -56,6 +56,6 @@ permalink: /nj/
 * <a name="njuškalo" title="њушкало" class="rs">**њу̏шкало**</a> *м.* и *с.* 
   1. проны́ра, прола́за; челове́к, всю́ду сую́щий свой нос;
   2. *разг.* шпик, шпио́н.
-* <a name="njuškati" title="њушкати" class="rs">**њу̏шкати**</a>, -ка̄м *уменьш.* (*ср.* њушити) 
+* <a name="njuškati" title="њушкати" class="rs">**њу̏шкати**</a>, <a name="njuškam" title="њушкам" class="rs">-ка̄м</a> *уменьш.* (*ср.* [њушити](/nj/#njušiti))
   1. приню́хиваться, обню́хивать;
   2. выню́хивать, проню́хивать.

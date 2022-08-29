@@ -29,20 +29,20 @@ permalink: /a/
 * <a name="abaija" title="абаија" class="rs">**аба́ија**</a> *ж.*, <a name="abajlija" title="абајлија" class="rs">**аба́јлија**</a> *ж.* *уст.* чепра́к. 
 * **а̀банос** м. см. [абонос](/a/#abonos).
 * <a name="abati" title="абати" class="rs">**а̏бати**</a>, <a name="abam" title="абам" class="rs">а̏ба̄м</a> изна́шивать, трепа́ть (*одежду и т. п.*); 
-  * ** <a name="abati-" title="абати-" class="rs">se</a> ~ се** изнашиваться, трепаться (об одежде и т. п.); см. [хабати (се)](/h/#habati-se). 
-* <a name="abadžija" title="абаџија" class="rs">**а̏баџија**</a> *м.* портно́й, шью́щий оде́жду из абы́; *ср.* **аба**. 
-* <a name="abadžijski" title="абаџијски" class="rs">**а̏баџӣјскǁӣ**</a>, <a name="abadžijskia" title="абаџијскиа" class="rs">**~а̄**</a>, <a name="abadžijskio" title="абаџијскио" class="rs">**~о̄**</a> портня́жный; *ср.* абаџија. 
+  * <a name="abati-se" title="абати се" class="rs">**~ се**</a> изнашиваться, трепаться (об одежде и т. п.); см. [хабати (се)](/h/#habati-se). 
+* <a name="abadžija" title="абаџија" class="rs">**а̏баџија**</a> *м.* портно́й, шью́щий оде́жду из абы́; *ср.* [**аба**](/a/#aba). 
+* <a name="abadžijski" title="абаџијски" class="rs">**а̏баџӣјскǁӣ**</a>, <a name="abadžijska" title="абаџијска" class="rs">**~а̄**</a>, <a name="abadžijsko" title="абаџијско" class="rs">**~о̄**</a> портня́жный; *ср.* [абаџија](/a/#abadžija). 
 * <a name="abadžiluk" title="абаџилук" class="rs">**а̏баџилук**</a> *м.* *уст.* 
   1. портня́жничество, портня́жное ремесло́;
   2. пла́та за поши́в.
 * <a name="abdikacija" title="абдикација" class="rs">**абдика́ција**</a> *ж.* отрече́ние от престо́ла. 
 * <a name="abdicirati" title="абдицирати" class="rs">**абдици́рати**</a>, <a name="abdiciram" title="абдицирам" class="rs">абдѝцӣрам</a> отре́чься от престола.
 * <a name="aben" title="абен" class="rs">**а̏бен**</a>, <a name="abeni" title="абени" class="rs">**~ӣ**</a>, <a name="abena" title="абена" class="rs">~а</a>, <a name="abeno" title="абено" class="rs">~о</a> 
-  1. сде́ланный из абы́; *ср.* **аба**;
+  1. сде́ланный из абы́; *ср.* [**аба**](/a/#aba);
   2. *перен.* плохо́й, плохо́го ка́чества; сла́бый 
-* <a title="" class="rs">**а̏бено**</a> *нареч.* пло́хо, бе́дно; 
+* <a title="абено" class="rs">**а̏бено**</a> *нареч.* пло́хо, бе́дно; 
   * **он живи ~** ему́ пло́хо живётся.
-* <a name="abenjak" title="абењак" class="rs">**абѐња̄к**</a>, <a name="abenjaka" title="абењака" class="rs">абења́ка</a> *м.* ша́пка из абы́; *ср.* **аба.**
+* <a name="abenjak" title="абењак" class="rs">**абѐња̄к**</a>, <a name="abenjaka" title="абењака" class="rs">абења́ка</a> *м.* ша́пка из абы́; *ср.* [**аба**](/a/#aba).
 * <a name="aber" title="абер" class="rs">**а̏бер**</a> *м.* *уст.* изве́стие; весть, слух;
   * **од њега ни ~а нема** ≅ о нём ни слу́ху ни ду́ху; *см.* [хабер](/h/#haber). 
 * <a name="aberacija" title="аберација" class="rs">**абера́ција**</a> *ж.* *физ.*, *астр.*, аберр́ация; 
@@ -59,7 +59,7 @@ permalink: /a/
 * <a name="abnormalan" title="абнормалан" class="rs">**а̏бнорма̄лǁан**</a>, <a name="abnormalni" title="абнормални" class="rs">**~нӣ**</a>, <a name="abnormalna" title="абнормална" class="rs">~на</a>, <a name="abnormalno" title="абнормално" class="rs">~но</a> ненорма́льный. 
 * <a name="abonent" title="абонент" class="rs">**або̀нент**</a> *м.* абоне́нт.
 * <a name="abonirati" title="абонирати" class="rs">**абони́рати**</a>, <a name="aboniram" title="абонирам" class="rs">або̀нӣра̄м</a> абони́ровать; 
-  * <a name="aboniram-se" title="абонирам-се" class="rs">**~ се**</a> абони́роваться; подписа́ться/подпи́сываться. 
+  * <a name="aboniram-se" title="абонирам се" class="rs">**~ се**</a> абони́роваться; подписа́ться/подпи́сываться. 
 * <a name="abonman" title="абонман" class="rs">**або̀нма̄н**</a>, <a name="abonmana" title="абонмана" class="rs">абонма́на</a> *м.* абонеме́нт.
 * <a name="abonos" title="абонос" class="rs">**або̀нос**</a> *м.* чёрное де́рево, эбе́новое де́рево;
   * <a name="od-abonosa" title="ођабоноса" class="rs">**од ~а**</a> эбе́новый.
